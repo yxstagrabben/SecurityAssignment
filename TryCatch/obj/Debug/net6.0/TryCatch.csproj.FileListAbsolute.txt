@@ -1,0 +1,15 @@
+/home/anton/RiderProjects/TryCatch/TryCatch/bin/Debug/net6.0/TryCatch
+/home/anton/RiderProjects/TryCatch/TryCatch/bin/Debug/net6.0/TryCatch.deps.json
+/home/anton/RiderProjects/TryCatch/TryCatch/bin/Debug/net6.0/TryCatch.runtimeconfig.json
+/home/anton/RiderProjects/TryCatch/TryCatch/bin/Debug/net6.0/TryCatch.dll
+/home/anton/RiderProjects/TryCatch/TryCatch/bin/Debug/net6.0/ref/TryCatch.dll
+/home/anton/RiderProjects/TryCatch/TryCatch/bin/Debug/net6.0/TryCatch.pdb
+/home/anton/RiderProjects/TryCatch/TryCatch/obj/Debug/net6.0/TryCatch.csproj.AssemblyReference.cache
+/home/anton/RiderProjects/TryCatch/TryCatch/obj/Debug/net6.0/TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/RiderProjects/TryCatch/TryCatch/obj/Debug/net6.0/TryCatch.AssemblyInfoInputs.cache
+/home/anton/RiderProjects/TryCatch/TryCatch/obj/Debug/net6.0/TryCatch.AssemblyInfo.cs
+/home/anton/RiderProjects/TryCatch/TryCatch/obj/Debug/net6.0/TryCatch.csproj.CoreCompileInputs.cache
+/home/anton/RiderProjects/TryCatch/TryCatch/obj/Debug/net6.0/TryCatch.dll
+/home/anton/RiderProjects/TryCatch/TryCatch/obj/Debug/net6.0/ref/TryCatch.dll
+/home/anton/RiderProjects/TryCatch/TryCatch/obj/Debug/net6.0/TryCatch.pdb
+/home/anton/RiderProjects/TryCatch/TryCatch/obj/Debug/net6.0/TryCatch.genruntimeconfig.cache
